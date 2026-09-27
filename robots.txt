@@ -1,0 +1,3 @@
+User-agent: *
+# Sitio de muestra: no indexar hasta que el local lo apruebe.
+Disallow: /
